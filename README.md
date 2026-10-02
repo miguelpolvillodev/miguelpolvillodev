@@ -1,5 +1,11 @@
 # Sobre Mí:
-¡Hola, soy Miguel Polvillo! <br><br>Desarrollador de Software en formación con enfoque en soluciones backend y web. <br><br>A nivel técnico, consolido mis conocimientos en el ecosistema Java y la gestión de bases de datos con Oracle SQL, complementando el backend con la creación de interfaces modernas en HTML5 y CSS3. Utilizo Git para asegurar un control de versiones eficiente y profesional. <br>                                                                                                      <br>Gracias a una trayectoria previa de +9 años gestionando proyectos complejos, he desarrollado una alta capacidad para la resolución de problemas críticos, la toma de decisiones bajo presión y la comunicación efectiva que ahora aporto al sector tecnológico. <br><br>Objetivo actual: Seguir creciendo en entornos de alto rendimiento y contribuir a proyectos de transformación digital de gran escala.<br><br>Lenguajes: Java, SQL, JavaScript, HTML5, CSS3.<br><br>Herramientas: Git, GitHub, VS Code, Eclipse, Oracle DB.<br><br> Actualmente: Profundizando en Java SE, lógica de negocio y persistencia de datos.<br><br>   🌱 Aprendiendo: Spring Boot, Angular, Docker y arquitecturas web modernas.<br><br>   💬 Habilidades clave: Resolución de incidencias, comunicación efectiva y adaptabilidad.
+Desarrollador de Software con enfoque en soluciones backend y web. Técnico Superior en Desarrollo de Aplicaciones Web (DAW) por la Universidad CEU San Pablo, con experiencia en **Ayesa Digital** en un rol híbrido de Backend Developer (Java) y Product Owner.
+
+En lo técnico, trabajo con el ecosistema Java y Spring Boot para construir APIs REST, con bases de datos relacionales (Oracle SQL) y con interfaces web en HTML5, CSS3 y JavaScript. Uso Python para scripting y desarrollo backend, Docker para desplegar aplicaciones y Git/GitHub para el control de versiones.
+
+Antes de dedicarme al desarrollo acumulé más de 9 años coordinando proyectos y eventos. Esa etapa me dio capacidad para resolver problemas críticos, tomar decisiones bajo presión y comunicarme con el cliente y ahora lo aplico en equipos técnicos con metodologías ágiles.
+
+**Objetivo actual:** seguir creciendo en entornos de alto rendimiento y contribuir a proyectos de transformación digital de gran escala.
 
 
 ## 🌐 Socials:
@@ -12,6 +18,4 @@
 ![](https://streak-stats.demolab.com/?user=miguelpolvillodev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=miguelpolvillodev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miguelpolvillodev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
